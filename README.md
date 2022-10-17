@@ -34,7 +34,6 @@ const NotMango = {
 
 ---
 <!--START_SECTION:waka-->
-![Last Commmit](https://img.shields.io/github/last-commit/enlistedmango/enlistedmango?style=plastic)
 
 
 <!--END_SECTION:waka-->

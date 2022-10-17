@@ -15,7 +15,7 @@ const NotMango = {
     pronouns: "He" | "Him",
     name: "Jamie"
     code: ["Javascript", "lua"],
-    askMeAbout: ["web dev", "tech", "photography", "videography", "roleplay"],
+    askMeAbout: ["web dev", "tech", "photography", "videography"],
     technologies: {
         backEnd: { // Pending Backend Knowledge
             js: ["Node"],
@@ -23,7 +23,7 @@ const NotMango = {
         mobileApp: {
             // Nothing planned as of yet
         },
-        misc: ["Firebase",]
+        misc: ["AWS", "Kibana", "JIRA", ]
     },
     currentFocus: "100 Days of Code with a focus on Front End Development",
     quote: "Never strive for perfection, aim to be 1% better each day!"
@@ -33,7 +33,6 @@ const NotMango = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 
 <!--END_SECTION:waka-->

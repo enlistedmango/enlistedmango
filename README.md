@@ -28,6 +28,7 @@ const NotMango = {
     currentFocus: "100 Days of Code with a focus on Front End Development",
     quote: "Never strive for perfection, aim to be 1% better each day!"
 };
+```
 
 
 <!--START_SECTION:waka-->

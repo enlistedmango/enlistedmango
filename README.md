@@ -41,7 +41,7 @@ const NotMango = {
 
 > 🏆 56 Contributions in the Year 2022
  > 
-> 📦 82 Bytes Used in Github's Storage 
+> 📦 84 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,5 +103,5 @@ CSS                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 04/11/2022
+ Last Updated on 05/11/2022
 <!--END_SECTION:waka-->

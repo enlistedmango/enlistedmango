@@ -78,13 +78,13 @@ Sunday       4 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Batchfile                8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -99,5 +99,5 @@ TypeScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 02/12/2022
+ Last Updated on 03/12/2022
 <!--END_SECTION:waka-->

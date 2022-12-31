@@ -41,7 +41,7 @@ const NotMango = {
 
 > 🏆 69 Contributions in the Year 2022
  > 
-> 📦 9.7 kB Used in Github's Storage 
+> 📦 9.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,5 +104,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 30/12/2022
+ Last Updated on 31/12/2022
 <!--END_SECTION:waka-->

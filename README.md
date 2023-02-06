@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Jamie! <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="230">
-<p><em>An aspiring Front End Engineer, just trying to make his way in this world.
+<p><em>Project Manager > Engineer, just trying to make his way in this world.
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 

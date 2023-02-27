@@ -20,6 +20,7 @@ jobs:
           SHOW_LINES_OF_CODE: true
           SHOW_LOC_CHART: false
           BLOCKS: ->
-          TIME_RANGE: all_time
+          SECTION_NAME: "Weekly Development Breakdown"
+          TIME_RANGE: last_7_days
           SHOW_TIME: true
           LANG_COUNT: 5

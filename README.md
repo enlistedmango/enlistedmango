@@ -32,14 +32,11 @@ const NotMango = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 October 2022 - To: 26 February 2023
+From: 20 February 2023 - To: 26 February 2023
 
-Lua              14 hrs 32 mins  >>>>>>>------------------   27.04 %
-Go               12 hrs 55 mins  >>>>>>-------------------   24.03 %
-Vue.js           5 hrs 18 mins   >>-----------------------   09.86 %
-Markdown         4 hrs 42 mins   >>-----------------------   08.74 %
-JavaScript       4 hrs 1 min     >>-----------------------   07.50 %
-Other            3 hrs 40 mins   >>-----------------------   06.83 %
+Go               5 hrs 34 mins   >>>>>>>>>>>>>>>>>--------   68.25 %
+Markdown         57 mins         >>>----------------------   11.65 %
+Other            44 mins         >>-----------------------   09.00 %
 ```
 
 <!--END_SECTION:waka-->

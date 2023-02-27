@@ -29,7 +29,7 @@ const NotMango = {
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N1FSEY4)
 ---
 
-<!--START_SECTION:Weekly Development Breakdown-->
+<!--START_SECTION:waka-->
 
 ```text
 From: 16 October 2022 - To: 26 February 2023
@@ -42,4 +42,4 @@ JavaScript       4 hrs 1 min     >>-----------------------   07.50 %
 Other            3 hrs 40 mins   >>-----------------------   06.83 %
 ```
 
-<!--END_SECTION:Weekly Development Breakdown-->
+<!--END_SECTION:waka-->

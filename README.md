@@ -10,22 +10,19 @@
 
 ### <img src="https://media4.giphy.com/media/26BkNUA64zF0pCFSE/giphy.gif" width="50"> A little more about me...
 
-```javascript
+```go
 const NotMango = {
     pronouns: "He" | "Him",
     name: "Jamie"
-    code: ["Javascript", "lua"],
-    askMeAbout: ["web dev", "tech", "photography", "videography"],
+    code: ["Golang", "lua"],
+    askMeAbout: ["Backend Dev", "Project Manager", "photography", "videography"],
     technologies: {
-        backEnd: { // Pending Backend Knowledge
-            js: ["Node"],
-        },
-        mobileApp: {
-            // Nothing planned as of yet
+        backEnd: {
+            goLang,
         },
         misc: ["AWS", "Kibana", "JIRA", ]
     },
-    currentFocus: "100 Days of Code with a focus on Front End Development",
+    currentFocus: "Jon Calhouns' Web Dev With Go",
     quote: "Never strive for perfection, aim to be 1% better each day!"
 };
 ```

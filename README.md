@@ -32,10 +32,10 @@ const NotMango = {
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 February 2023 - To: 05 March 2023
+From: 28 February 2023 - To: 06 March 2023
 
-Go            2 hrs 16 mins   >>>>>>>>>>>>>>>>---------   64.12 %
-Other         32 mins         >>>>---------------------   15.43 %
+Go           1 hr 50 mins    >>>>>>>>>>>>>>-----------   56.48 %
+Other        42 mins         >>>>>--------------------   21.77 %
 ```
 
 <!--END_SECTION:waka-->
